@@ -1,0 +1,19 @@
+{
+  "name": "sticknotes",
+  "version": "1.0.0",
+  "description": "Projeto de notas autoadesivas (estilo post-it) o usando o FrameWork Electron e o banco de dados mongodb",
+  "main": "main.js",
+  "scripts":  {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WesleySouzaSilva97"
+  },
+  "author": "Wesley Souza",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^34.3.0"
+  }
+}
